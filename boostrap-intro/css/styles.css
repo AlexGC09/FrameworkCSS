@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(196, 197, 255);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.navbar-custom-color{
+    background-color: #7952B3;
+}
+footer {
+    background: #212529;
+  }
+
+.custom{
+      color: black;
+  }
